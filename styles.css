@@ -1,0 +1,11 @@
+.category {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#genre-panel {
+  min-width: 130px;
+}
+
+
+
